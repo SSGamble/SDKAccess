@@ -1,7 +1,9 @@
 # SDKAccess
 关于 android sdk 接入的学习。
 
-## 扩展 UnityPlayerActivity
+## SDKTest
+
+Unity 和 Android 的交互，扩展 UnityPlayerActivity。
 
 ## QQ
 
@@ -10,3 +12,4 @@
 ## TTAD
 
 接入穿山甲SDK（Unity 插件），实现广告的加载和播放。 
+
