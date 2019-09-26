@@ -89,9 +89,9 @@ public sealed class Manager : MonoBehaviour {
         }
 
         var adSlot = new AdSlot.Builder()
-            .SetCodeId("930830162")
+            .SetCodeId("930830893")
             .SetSupportDeepLink(true)
-            .SetImageAcceptedSize(1080, 1920)
+            .SetImageAcceptedSize(600, 257)
             .SetRewardName("金币") // 奖励的名称
             .SetRewardAmount(3) // 奖励的数量
             .SetUserID("15592") // 用户id,必传参数
