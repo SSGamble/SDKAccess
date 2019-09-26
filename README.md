@@ -3,6 +3,8 @@
 
 ## SDKTest
 
+[博客地址](https://blog.csdn.net/SGamble/article/details/101376652)
+
 Unity 和 Android 的交互，扩展 UnityPlayerActivity。
 
 ## QQ
