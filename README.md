@@ -15,5 +15,7 @@ Unity 和 Android 的交互，扩展 UnityPlayerActivity。
 
 [博客地址](https://blog.csdn.net/SGamble/article/details/101437656)
 
-接入穿山甲SDK（Unity 插件），实现广告的加载和播放。 
+接入穿山甲，实现广告的加载和播放。 
+- SDK（Unity 插件）
+- Android 导入原生 SDK 调试，导出 aar 接入 Unity
 
